@@ -19,7 +19,7 @@ This is an end-to-end project that builds a "Text-to-SQL" application using Goog
 * Important Note & Future Directions
 
 ## Project Overview
-This project demonstrates the power of Large Language Models (LLMs) in democratizing data access. By creating an intelligent natural language interface for a complex database, it bridges the gap between intricate data structures and users who lack SQL expertise. The application uses a sophisticated prompt engineering strategy to guide the **Gemini 2.5 Pro** model, ensuring it generates accurate, efficient, and secure SQL queries tailored specifically for a SQLite environment. The entire application is wrapped in an interactive web interface built with Streamlit.
+This project demonstrates the power of Large Language Models (LLMs) by creating an intelligent natural language interface for a complex database, which bridges the gap between intricate data structures and users who lack SQL expertise. The application uses a sophisticated prompt engineering strategy to guide the **Gemini 2.5 Pro** model, ensuring it generates accurate, efficient, and secure SQL queries tailored specifically for a SQLite environment. The entire application is wrapped in an interactive web interface built with Streamlit.
 
 ## Objectives
 In many organizations, valuable data is stored in complex databases, accessible only to data analysts or developers proficient in SQL. This creates a bottleneck, slowing down decision-making for business users, coaches, or scouts who need quick answers from the data.
