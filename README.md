@@ -30,11 +30,11 @@ The primary objectives of this project are:
 * **Build a Scalable Solution:** Create a modular application that can be adapted to different databases (including Cloud based) by dynamically reading and understanding the database schema.
 
 ## Tech Stack
-Language: Python
-LLM: Google Gemini 2.5 Pro
-Database: SQLite
-Web Framework: Streamlit
-Environment Management: python-dotenv
+* Language: Python
+* LLM: Google Gemini 2.5 Pro
+* Database: SQLite
+* Web Framework: Streamlit
+* Environment Management: python-dotenv
 
 ## Project Workflow
 The application follows a streamlined, multi-step process to convert a user's question into a data-driven answer.
@@ -97,7 +97,7 @@ Place the database.sqlite file in the root directory of the project.
 
 **5.** Set up your Google API Key:
 
-** To get an API key go to "https://makersuite.google.com/app/apikey" and get the free access.**
+**To get an API key go to "https://makersuite.google.com/app/apikey" and get the free access.**
 
 Create a file named .env in the root directory.
 <pre>
