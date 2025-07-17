@@ -4,7 +4,7 @@ This is an end-to-end project that builds a "Text-to-SQL" application using Goog
 ## Table of Contents
 * Project Overview
 
-* Business Problem & Objectives
+* Objectives
 
 * Tech Stack
 
