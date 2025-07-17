@@ -58,7 +58,9 @@ The application follows a streamlined, multi-step process to convert a user's qu
 ├── 📄 SQL.py                # Database Ingestion
 ├── 📄 APP.py                # Core Streamlit application logic
 ├── 📄 requirements.txt      # Python dependencies
-├── 📄 .env                  # For storing the API key (not committed)
+├── Results/
+│   ├── SQL Query
+│   └── Application Output
 └── 📦 Database(source link).txt     # The soccer database (download separately)
 </pre>
 
