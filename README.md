@@ -95,13 +95,13 @@ pip install -r requirements.txt
 
 **4.** Download the Database:
 
-Download the SQLite database from the Kaggle Soccer Dataset.
+Download the SQLite database from the [Dataset](https://www.kaggle.com/datasets/hugomathien/soccer)
 
 Place the database.sqlite file in the root directory of the project.
 
 **5.** Set up your Google API Key:
 
-**To get an API key go to "https://makersuite.google.com/app/apikey" and get the free access.**
+**To get an API key go to [Google](https://makersuite.google.com/app/apikey) and get the free access.**
 
 Create a file named .env in the root directory.
 <pre>
@@ -113,7 +113,7 @@ GOOGLE_API_KEY="YOUR_API_KEY_HERE"
 <pre>
 streamlit run APP.py
 </pre>
-Open your web browser and navigate to the local URL provided by Streamlit (eg: http://localhost:8501)
+Open your web browser and navigate to the local URL provided by Streamlit
 
 ## 💡 Important Note & Future Directions
 This project serves as a powerful **_proof-of-concept_** and a foundational first version. While highly capable, it is not a production-ready system and still has room for growth.
