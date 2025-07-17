@@ -113,4 +113,27 @@ streamlit run APP.py
 </pre>
 Open your web browser and navigate to the local URL provided by Streamlit (eg: http://localhost:8501)
 
+# 💡 Important Note & Future Directions
+This project serves as a powerful **_proof-of-concept_** and a foundational first version. While highly capable, it is not a production-ready system and still has room for growth.
 
+**Known Limitations:**
+
+* The LLM can occasionally generate an incorrect or inefficient SQL query, especially for highly complex or ambiguous questions.
+* The application's performance is tied to the local machine's capabilities and the size of the SQLite database.
+
+## Future Enhancements:
+There are many exciting directions to take this project:
+
+* Cloud Integration: Scale the application by migrating the database to a cloud service like Google Cloud SQL or Amazon RDS to handle much larger datasets and higher traffic.
+
+* Advanced Chat: Implement a more conversational, chat-like interface that remembers the context of previous questions.
+
+* Support for Multiple Databases: Extend the system to connect to other SQL databases like PostgreSQL or MySQL.
+
+* Enhanced UI: Add features for data visualization, allowing users to generate charts and graphs directly from their queries.
+
+## 📞 Contact
+
+Nipun Chauhan <br>
+Email: nipunct@gmail.com <br>
+Phone: (469) 386-8456
