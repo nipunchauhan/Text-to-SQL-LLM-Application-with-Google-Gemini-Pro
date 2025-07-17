@@ -46,11 +46,11 @@ The application follows a streamlined, multi-step process to convert a user's qu
 * **Interactive Visualization:** The retrieved data is displayed to the user in a clean, tabular format within the Streamlit web application.
 
 ## Key Features
-**Natural Language Querying:** Allows users to ask complex questions like, "Who is the tallest player with the highest jumping rating?" and get immediate, accurate answers.
-**Dynamic Schema Awareness:** Automatically detects the database schema, making the application adaptable to other databases with minimal code changes.
-**SQLite-Specific Optimization:** The prompt includes specific instructions for SQLite syntax (e.g., || for concatenation, COALESCE() for NULLs), ensuring the generated queries are highly optimized and error-free.
-**Robust Error Handling:** The prompt guides the LLM to handle ambiguous questions or queries that cannot be answered with the available data, improving the user experience.
-**Interactive Web UI:** A clean and simple user interface built with Streamlit allows for easy interaction and data visualization.
++ **Natural Language Querying:** Allows users to ask complex questions like, "Who is the tallest player with the highest jumping rating?" and get immediate, accurate answers.
++ **Dynamic Schema Awareness:** Automatically detects the database schema, making the application adaptable to other databases with minimal code changes.
++ **SQLite-Specific Optimization:** The prompt includes specific instructions for SQLite syntax (e.g., || for concatenation, COALESCE() for NULLs), ensuring the generated queries are highly optimized and error-free.
++ **Robust Error Handling:** The prompt guides the LLM to handle ambiguous questions or queries that cannot be answered with the available data, improving the user experience.
++ **Interactive Web UI:** A clean and simple user interface built with Streamlit allows for easy interaction and data visualization.
 
 ## Repository Structure
 <pre>
