@@ -29,7 +29,7 @@ The primary objectives of this project are:
 * **Eliminate Technical Barriers:** Enable users to query a database using natural English without writing any code.
 * **Accelerate Data-Driven Insights:** Provide an interactive tool for real-time data exploration and analysis.
 * **Ensure Query Accuracy:** Leverage advanced prompt engineering to guide the LLM into generating syntactically correct and context-aware SQL queries.
-* **Build a Scalable Solution:** Create a modular application that can be adapted to different databases (including Cloud based) by dynamically reading and understanding the database schema.
+* **Build a Scalable Solution:** Create a modular application that can be adapted to different databases by dynamically reading and understanding the database schema.
 
 ## Tech Stack
 * Language: Python
