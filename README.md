@@ -56,10 +56,10 @@ The application follows a streamlined, multi-step process to convert a user's qu
 
 ## Repository Structure
 <pre>
-├── 📄 README.md
-├── 📄 SQL.py                # Database Ingestion
-├── 📄 APP.py                # Core Streamlit application logic
-├── 📄 requirements.txt      # Python dependencies
+├── README.md
+├── SQL.py                # Database Ingestion
+├── APP.py                # Core Streamlit application logic
+├── requirements.txt      # Python dependencies
 ├── Results/
 │   ├── SQL Query
 │   └── Application Output
