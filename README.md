@@ -60,7 +60,7 @@ The application follows a streamlined, multi-step process to convert a user's qu
 ├── SQL.py                # Database Ingestion
 ├── APP.py                # Core Streamlit application logic
 ├── requirements.txt      # Python dependencies
-├── Results/
+├── Results
 │   ├── SQL Query
 │   └── Application Output
 └── 📦 Database(source link).txt     # The soccer database (download separately)
