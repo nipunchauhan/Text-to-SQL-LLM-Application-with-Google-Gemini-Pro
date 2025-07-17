@@ -1,7 +1,7 @@
 # Text-to-SQL LLM Application with Google Gemini Pro
 This is an end-to-end project that builds a "Text-to-SQL" application using Google's Gemini Pro for free. The application allows non-technical users to ask complex questions in plain English, which are then converted into precise SQLite queries, executed against a soccer database, and the results are returned in a user-friendly interface.
 
-## 📖 Table of Contents
+## Table of Contents
 * Project Overview
 
 * Business Problem & Objectives
@@ -14,7 +14,9 @@ This is an end-to-end project that builds a "Text-to-SQL" application using Goog
 
 * Repository Structure
 
-* 🚀 How to Run This Project
+* How to Run This Project
+
+* Important Note & Future Directions
 
 ## Project Overview
 This project demonstrates the power of Large Language Models (LLMs) in democratizing data access. By creating an intelligent natural language interface for a complex database, it bridges the gap between intricate data structures and users who lack SQL expertise. The application uses a sophisticated prompt engineering strategy to guide the **Gemini 2.5 Pro** model, ensuring it generates accurate, efficient, and secure SQL queries tailored specifically for a SQLite environment. The entire application is wrapped in an interactive web interface built with Streamlit.
