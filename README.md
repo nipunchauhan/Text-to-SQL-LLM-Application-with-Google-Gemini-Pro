@@ -126,13 +126,13 @@ This project serves as a powerful **_proof-of-concept_** and a foundational firs
 ### Future Enhancements:
 There are many exciting directions to take this project:
 
-* Cloud Integration: Scale the application by migrating the database to a cloud service like Google Cloud SQL or Amazon RDS to handle much larger datasets and higher traffic.
+* **Cloud Integration:** Scale the application by migrating the database to a cloud service like Google Cloud SQL or Amazon RDS to handle much larger datasets and higher traffic.
 
-* Advanced Chat: Implement a more conversational, chat-like interface that remembers the context of previous questions.
+* **Advanced Chat:** Implement a more conversational, chat-like interface that remembers the context of previous questions.
 
-* Support for Multiple Databases: Extend the system to connect to other SQL databases like PostgreSQL or MySQL.
+* **Support for Multiple Databases:** Extend the system to connect to other SQL databases like PostgreSQL or MySQL.
 
-* Enhanced UI: Add features for data visualization, allowing users to generate charts and graphs directly from their queries.
+* **Enhanced UI:** Add features for data visualization, allowing users to generate charts and graphs directly from their queries.
 
 ## 📞 Contact
 
